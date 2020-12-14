@@ -60,3 +60,4 @@ Here are some recommendation for future works
 - Compare the number of data that can be consumed from Rabbit of each os these 
 frameworks and pure language.
 - Add database connections
+- Adition of reactive JS
