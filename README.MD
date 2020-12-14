@@ -1,10 +1,9 @@
 # Multi-language Benchmark 
-*A project to compare multiples framework of multiples languages to see they strong and weak points, and have a gide where to use.* 
+*A project to compare multiples framework of multiples languages to see they strong and weak points, and have a guide where to use.* 
 
 ## :smiley: Why
-Today we have a lot of language and frameworks for web development, and each of them have their
-advantage and downside, for that will be created tree project for each of these frameworks
-one with a strong cpu used, one with strong IO from text and another with strong IO from videos.
+Today we have a lot of language and frameworks for web development, and each of them has their
+advantage and downside, for that, will be created tree project for each of these frameworks, one with a strong CPU used, one with strong IO with JSON, and another with strong IO from videos.
 
 So this project will compare the following languages with the related frameworks:
 
@@ -33,11 +32,10 @@ From those languages will be collected the following data
 ## :bulb: Methodology
  Will be used three projects for each framework, were some key point will
  be compared. 
- One will be a project to stream a video, that will be equals for all.
- Other will be a project that will return a medium text from each request.
- The last will be a project that realize a strong calculation, that will be defined in the future.
- From each one, will be realized 1.000 requests, and the resource used will be used to 
- generate the result.
+ One will be a project to stream a video, that will equal for all.
+ The other will be a project that will return a medium text from each request.
+ The last will be a project that realizes a strong calculation, that will be defined in the future.
+ From each one, will be realized 1.000 requests, and the resource used will be used to generate the result.
  To collect those data probably will be used *Prometheus*.
  
 ## :pencil2: Roadmap
@@ -48,7 +46,7 @@ From those languages will be collected the following data
 - :x: Projects with Micronaut reactive reactor
 - :x: Projects with Micronaut reactive rxJava 3
 - :x: Projects with Vert.x
-- :x: Projects with Quarkus
+- :x: Projects with quarkus
 - :x: Projects with Quarkus Reactive Vert.x
 - :x: Projects with Express
 - :x: Projects with Next.js
@@ -58,7 +56,7 @@ From those languages will be collected the following data
 Yet not have any
 
 ## :calendar: Future works
-Here are some recommendation to future works
+Here are some recommendation for future works
 - Compare the number of data that can be consumed from Rabbit of each os these 
 frameworks and pure language.
 - Add database connections
