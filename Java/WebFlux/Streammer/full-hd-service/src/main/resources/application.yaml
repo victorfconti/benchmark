@@ -1,0 +1,21 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: streammer-full-hd
+  servlet:
+    multipart:
+      max-file-size: 10024KB
+      max-request-size: 10024KB
+
+video:
+  path: video-fullhd.mp4
+  size: 23866165
+  ext: video-fullhd.mp4
+
+s3:
+  access-key: AKIAIOSFODNN7EXAMPLE
+  secret-key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+  host: http://localhost:9444/s3
+  bucket: video
