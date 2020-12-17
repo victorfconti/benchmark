@@ -6,19 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="full-hd-service" />
-        <module name="full-hd-service (1)" />
+        <module name="streamming-service-webflux" />
+        <module name="streamming-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="full-hd-service" target="11" />
-      <module name="full-hd-service (1)" target="11" />
+      <module name="streamming-service" target="11" />
+      <module name="streamming-service-webflux" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="full-hd-service" options="-parameters" />
-      <module name="full-hd-service (1)" options="-parameters" />
+      <module name="streamming-service" options="-parameters" />
+      <module name="streamming-service-webflux" options="-parameters" />
     </option>
   </component>
 </project>

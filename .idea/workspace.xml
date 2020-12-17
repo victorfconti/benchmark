@@ -113,7 +113,7 @@
       </method>
     </configuration>
     <configuration name="FullHdServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="full-hd-service (1)" />
+      <module name="streamming-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.victor.streammermultiquality.hdservice.FullHdServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
