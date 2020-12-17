@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.victor.streammer-multiquality</groupId>
-	<artifactId>full-hd-service</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>spring-webflux-streammer</artifactId>
+	<version>0.0.1</version>
 	<name>full-hd-service</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Implementation of a Stream service with Spring Web Flux</description>
 
 	<properties>
 		<java.version>11</java.version>
@@ -35,7 +35,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
+			<artifactId>spring-boot-starter-webflux</artifactId>
 		</dependency>
 
 		<dependency>
@@ -62,44 +62,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
-			<plugin>
-				<groupId>io.fabric8</groupId>
-				<artifactId>fabric8-maven-plugin</artifactId>
-				<version>${fabric8.maven.plugin.version}</version>
-				<configuration>
-					<verbose>true</verbose>
-					<images>
-						<image>
-							<name>localhost:5000/${project.artifactId}:${git.commit.id.describe}</name>
-							<build>
-								<tags>
-									<tag>latest</tag>
-									<tag>${git.commit.id.describe}</tag>
-								</tags>
-								<dockerFile>Dockerfile</dockerFile>
-								<assembly>
-									<targetDir>/opt/app</targetDir>
-									<descriptor>assembly.xml</descriptor>
-								</assembly>
-							</build>
-						</image>
-					</images>
-				</configuration>
-			</plugin>
-			<plugin>
-				<groupId>pl.project13.maven</groupId>
-				<artifactId>git-commit-id-plugin</artifactId>
-				<version>2.2.4</version>
-				<executions>
-					<execution>
-						<id>get-the-git-infos</id>
-						<goals>
-							<goal>revision</goal>
-						</goals>
-						<phase>validate</phase>
-					</execution>
-				</executions>
-			</plugin>
+
 		</plugins>
 	</build>
 

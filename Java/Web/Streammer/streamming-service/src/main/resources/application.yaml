@@ -1,0 +1,15 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: streammer-full-hd
+  servlet:
+    multipart:
+      max-file-size: 10024KB
+      max-request-size: 10024KB
+
+video:
+  path: static/video.mp4
+  ext: mp4
+  size:
