@@ -40,7 +40,7 @@ From those languages will be collected the following data
  
 ## :pencil2: Roadmap
 - :x: Project to summarize the results.  
-- :x: Projects with Spring web
+- :check: Projects with Spring web
 - :x: Projects with Spring webflux
 - :x: Projects with Micronaut
 - :x: Projects with Micronaut reactive reactor
