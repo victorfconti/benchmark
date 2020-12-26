@@ -13,7 +13,7 @@ import reactor.core.publisher.Mono;
 @RequestMapping("v1")
 public class LoadController {
     @GetMapping(path = "/load")
-    public Mono<Resource> get(@Value("classpath:/static/video.mp4") Resource resource,
+    public Mono<Resource> get(@Value("classpath:${video.path}") Resource resource,
                               ServerHttpResponse response) {
         response.getHeaders().add(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=\"" + resource.getFilename()+"\"");
         return Mono.just(resource);

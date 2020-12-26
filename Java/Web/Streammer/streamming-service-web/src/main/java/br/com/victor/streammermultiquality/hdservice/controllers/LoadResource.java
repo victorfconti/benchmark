@@ -17,7 +17,7 @@ import java.io.IOException;
 public class LoadResource {
 
     @GetMapping(path = "/load", produces = "video/mp4")
-    public ResponseEntity<InputStreamResource> get(@Value("classpath:/static/video.mp4")Resource video) throws IOException {
+    public ResponseEntity<InputStreamResource> get(@Value("classpath:${video.path}")Resource video) throws IOException {
         MediaType mediaType = MediaType.parseMediaType("video/mp4");
 
         return ResponseEntity.ok()

@@ -10,4 +10,4 @@ spring:
       max-request-size: 10024KB
 
 video:
-  path: static/video.mp4
+  path: ${VIDEO_PATH:/static/video.mp4}

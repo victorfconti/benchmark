@@ -23,27 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec8b740c-af35-4fe8-9161-15ce67f3e33e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f6133b1b97551ba34ab9d55520014eff60202f1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/java/br/com/victor/streammermultiquality/hdservice/controllers/LoadController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/resources/static/video.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/java/br/com/victor/streammermultiquality/hdservice/FullHdServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/java/br/com/victor/streammermultiquality/hdservice/StreamerWebFluxServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/java/br/com/victor/streammermultiquality/hdservice/controller/LoadResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/java/br/com/victor/streammermultiquality/hdservice/controllers/LoadResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/java/br/com/victor/streammermultiquality/hdservice/controller/exceptions/ExceptionHandlers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/java/br/com/victor/streammermultiquality/hdservice/controllers/exceptions/ExceptionHandlers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/java/br/com/victor/streammermultiquality/hdservice/service/DownloadService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/java/br/com/victor/streammermultiquality/hdservice/services/DownloadService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/java/br/com/victor/streammermultiquality/hdservice/controllers/LoadResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/java/br/com/victor/streammermultiquality/hdservice/controllers/LoadResource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/java/br/com/victor/streammermultiquality/hdservice/FullHdServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/java/br/com/victor/streammermultiquality/hdservice/StreamerWebServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/java/br/com/victor/streammermultiquality/hdservice/controller/LoadResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/java/br/com/victor/streammermultiquality/hdservice/controller/StatusResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/java/br/com/victor/streammermultiquality/hdservice/model/VideoItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/java/br/com/victor/streammermultiquality/hdservice/service/DownloadService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/java/br/com/victor/streammermultiquality/hdservice/service/S3Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/java/br/com/victor/streammermultiquality/hdservice/controllers/LoadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/java/br/com/victor/streammermultiquality/hdservice/controllers/LoadController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -188,7 +171,7 @@
       <workItem from="1608164877011" duration="7132000" />
       <workItem from="1608858517240" duration="1706000" />
       <workItem from="1608860786962" duration="55000" />
-      <workItem from="1608900571606" duration="28013000" />
+      <workItem from="1608900571606" duration="28870000" />
     </task>
     <servers />
   </component>
