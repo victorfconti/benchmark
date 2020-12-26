@@ -23,27 +23,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec8b740c-af35-4fe8-9161-15ce67f3e33e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/src/main/docker/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/src/main/java/br/com/victor/streammermultiquality/hdservice/FullHdServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/src/main/java/br/com/victor/streammermultiquality/hdservice/controller/exceptions/ExceptionHandlers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/src/main/java/br/com/victor/streammermultiquality/hdservice/model/VideoItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/src/main/java/br/com/victor/streammermultiquality/hdservice/service/DownloadService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/src/main/resources/static/video.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/src/test/java/br/com/victor/streammermultiquality/hdservice/HdServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service/src/main/java/br/com/victor/streammermultiquality/hdservice/controller/LoadResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f6133b1b97551ba34ab9d55520014eff60202f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/java/br/com/victor/streammermultiquality/hdservice/controllers/LoadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/resources/static/video.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service/src/main/java/br/com/victor/streammermultiquality/hdservice/gateway/http/LoadResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/src/main/java/br/com/victor/streammermultiquality/hdservice/controller/LoadResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service/src/main/java/br/com/victor/streammermultiquality/hdservice/gateway/http/StatusResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service/src/main/java/br/com/victor/streammermultiquality/hdservice/controller/StatusResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/java/br/com/victor/streammermultiquality/hdservice/FullHdServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/java/br/com/victor/streammermultiquality/hdservice/StreamerWebFluxServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/java/br/com/victor/streammermultiquality/hdservice/controller/LoadResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/java/br/com/victor/streammermultiquality/hdservice/controllers/LoadResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/java/br/com/victor/streammermultiquality/hdservice/controller/exceptions/ExceptionHandlers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/java/br/com/victor/streammermultiquality/hdservice/controllers/exceptions/ExceptionHandlers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/java/br/com/victor/streammermultiquality/hdservice/service/DownloadService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/java/br/com/victor/streammermultiquality/hdservice/services/DownloadService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/java/br/com/victor/streammermultiquality/hdservice/FullHdServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/src/main/java/br/com/victor/streammermultiquality/hdservice/StreamerWebServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/java/br/com/victor/streammermultiquality/hdservice/controller/LoadResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/java/br/com/victor/streammermultiquality/hdservice/controller/StatusResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/java/br/com/victor/streammermultiquality/hdservice/model/VideoItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/java/br/com/victor/streammermultiquality/hdservice/service/DownloadService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/java/br/com/victor/streammermultiquality/hdservice/service/S3Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,17 +69,13 @@
     <option name="context" value="minikube" />
     <option name="namespace" value="default" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1lcz6mDLn1lry8QYsNzYBMhyj6F" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -89,18 +86,28 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/src/main/resources/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/resources" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/src/main/resources" />
       <recent name="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/src/main/resources/static" />
       <recent name="$PROJECT_DIR$/Java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.StreamerWebServiceApplication">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -119,6 +126,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamerWebFluxServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-web-stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.victor.streammermultiquality.hdservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.victor.streammermultiquality.hdservice.StreamerWebFluxServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamerWebFluxServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-webflux-streammer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.victor.streammermultiquality.hdservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.victor.streammermultiquality.hdservice.StreamerWebFluxServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamerWebServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-web-stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.victor.streammermultiquality.hdservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.victor.streammermultiquality.hdservice.StreamerWebServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.StreamerWebServiceApplication" />
+        <item itemvalue="Spring Boot.StreamerWebFluxServiceApplication" />
+        <item itemvalue="Spring Boot.StreamerWebFluxServiceApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -133,6 +186,9 @@
       <workItem from="1608053742279" duration="821000" />
       <workItem from="1608055853966" duration="472000" />
       <workItem from="1608164877011" duration="7132000" />
+      <workItem from="1608858517240" duration="1706000" />
+      <workItem from="1608860786962" duration="55000" />
+      <workItem from="1608900571606" duration="28013000" />
     </task>
     <servers />
   </component>
@@ -149,51 +205,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="729" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608169891080">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state x="729" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1608169891080" />
-    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1608169280583">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1608169280583" />
-    <state width="1802" height="266" key="GridCell.Tab.0.bottom" timestamp="1608172592837">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="1802" height="266" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1608172592837" />
-    <state width="1802" height="266" key="GridCell.Tab.0.center" timestamp="1608172592837">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="1802" height="266" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1608172592837" />
-    <state width="1802" height="266" key="GridCell.Tab.0.left" timestamp="1608172592837">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="1802" height="266" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1608172592837" />
-    <state width="1802" height="266" key="GridCell.Tab.0.right" timestamp="1608172592837">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="1802" height="266" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1608172592837" />
-    <state width="1802" height="266" key="GridCell.Tab.1.bottom" timestamp="1608172592839">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="1802" height="266" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1608172592839" />
-    <state width="1802" height="266" key="GridCell.Tab.1.center" timestamp="1608172592838">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="1802" height="266" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1608172592838" />
-    <state width="1802" height="266" key="GridCell.Tab.1.left" timestamp="1608172592838">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="1802" height="266" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1608172592838" />
-    <state width="1802" height="266" key="GridCell.Tab.1.right" timestamp="1608172592838">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="1802" height="266" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1608172592838" />
-    <state x="659" y="1339" width="672" height="678" key="search.everywhere.popup" timestamp="1607915278699">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="659" y="1339" width="672" height="678" key="search.everywhere.popup/0.1080.1920.1080/72.0.1848.1080@0.1080.1920.1080" timestamp="1607915278699" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

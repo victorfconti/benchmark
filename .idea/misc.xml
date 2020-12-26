@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service/pom.xml" />
         <option value="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/pom.xml" />
+        <option value="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/pom.xml" />
       </list>
     </option>
   </component>

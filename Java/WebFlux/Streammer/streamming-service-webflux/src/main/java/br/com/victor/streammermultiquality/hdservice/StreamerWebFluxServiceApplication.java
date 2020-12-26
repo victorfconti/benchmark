@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FullHdServiceApplication {
+public class StreamerWebFluxServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FullHdServiceApplication.class, args);
+		SpringApplication.run(StreamerWebFluxServiceApplication.class, args);
 	}
 
 }

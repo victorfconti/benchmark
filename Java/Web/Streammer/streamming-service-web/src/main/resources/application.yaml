@@ -11,5 +11,3 @@ spring:
 
 video:
   path: static/video.mp4
-  ext: mp4
-  size:

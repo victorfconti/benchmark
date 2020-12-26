@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.victor.streammer-multiquality</groupId>
-	<artifactId>spring-webflux-streammer</artifactId>
+	<artifactId>spring-webflux-stream</artifactId>
 	<version>0.0.1</version>
-	<name>full-hd-service</name>
-	<description>Implementation of a Stream service with Spring Web Flux</description>
+	<name>spring-webflux-stream</name>
+	<description>Stream project with Spring Webflux</description>
 
 	<properties>
 		<java.version>11</java.version>
@@ -29,15 +29,9 @@
 			<version>2.3.1</version>
 		</dependency>
 		<dependency>
-			<groupId>com.amazonaws</groupId>
-			<artifactId>aws-java-sdk-s3</artifactId>
-			<version>1.11.82</version>
-		</dependency>
-		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-webflux</artifactId>
 		</dependency>
-
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
