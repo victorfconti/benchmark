@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BenchMarket.iml" filepath="$PROJECT_DIR$/.idea/BenchMarket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orchestrator/orchestrator.iml" filepath="$PROJECT_DIR$/orchestrator/orchestrator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/spring-web-stream.iml" filepath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service-web/spring-web-stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/spring-webflux-streammer.iml" filepath="$PROJECT_DIR$/Java/WebFlux/Streammer/streamming-service-webflux/spring-webflux-streammer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/Web/Streammer/streamming-service/streamming-service.iml" filepath="$PROJECT_DIR$/Java/Web/Streammer/streamming-service/streamming-service.iml" />
