@@ -15,15 +15,15 @@ class RedisService:
         print('Connection opened')
 
     def populate(self):
-        print('Inserting values')
         persons: List[str] = RedisService.create_persons()
-        print('Persons: ' + str(persons))
+        print('Inserting values')
         self.r.lpush('persons', *persons)
 
     @staticmethod
     def create_persons() -> List[str]:
+        print('Generating values')
         persons: List[Person] = [Person.generate_random_person() for _ in range(0, 10_000)]
-        return list(map(lambda p: json.dumps(p, default=lambda x: x.__dict__), persons))
+        return list(map(lambda p: json.dumps(p, default=lambda x: vars(x)), persons))
 
     def __del__(self):
         self.r.close()

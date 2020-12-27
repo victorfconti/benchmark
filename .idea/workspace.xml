@@ -23,19 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec8b740c-af35-4fe8-9161-15ce67f3e33e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/912c6e89c340fc98ded0da80919e51af830d2d43" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b964b0f8baa5cd829d57ef5085fdceb83a0c3292" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/ccd328a2b6df76fe065b78d67c5cd4b0774326df" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9faf2f963e8b2a4bcb4d070eba327e9410a0b79" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orchestrator/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orchestrator/orchestrator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orchestrator/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orchestrator/redis.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orchestrator/redis_service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f6133b1b97551ba34ab9d55520014eff60202f1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orchestrator/redis_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/orchestrator/redis_service.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +195,7 @@
       <workItem from="1608860786962" duration="55000" />
       <workItem from="1608900571606" duration="28870000" />
       <workItem from="1609026425560" duration="1046000" />
-      <workItem from="1609027550766" duration="10952000" />
+      <workItem from="1609027550766" duration="11351000" />
     </task>
     <servers />
   </component>
@@ -230,6 +219,6 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/benchmark$__main__.coverage" NAME="__main__ Coverage Results" MODIFIED="1609039190626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/orchestrator" />
+    <SUITE FILE_PATH="coverage/benchmark$__main__.coverage" NAME="__main__ Coverage Results" MODIFIED="1609039577157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/orchestrator" />
   </component>
 </project>
